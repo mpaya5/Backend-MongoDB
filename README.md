@@ -63,3 +63,7 @@ mongoose.connect('mongodb://localhost:27017/my_mongo_database', {useMongoClient:
 ```
 
 With this we have already made the connection to MongoDB from NodeJS in a simple way using Mongoose.
+
+### MongoDB Problems
+
+If you have problems with Mongoose you can check my [repository](https://github.com/yumewebs/MongoDB-Problems/blob/main/README.md) where I'm fixing few problems with **MongoDB and Mongoose**
